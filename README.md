@@ -1,5 +1,5 @@
 # usurper-deckhand
-Server process management tool for Virtual Fisher clan Usurper Harbour.
+Server process management tool for Virtual Fisher clan Usurper.
 
 **Notice: this is not currently implemented in the Usurper Harbour server, nor open for contributions**
 
